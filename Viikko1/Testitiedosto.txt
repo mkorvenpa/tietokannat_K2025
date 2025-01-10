@@ -1,0 +1,1 @@
+Tällä tiedostolla testataan saadaanko tiedosto siirrettyä Gitin avulla GitHubiin
